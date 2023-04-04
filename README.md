@@ -1,5 +1,5 @@
 # Zuber_6thProject
-This project is my project in sprint 2, which is Exploratory Data Analysis.
+This project is my project in sprint 6, which is Collecting and Storing Data (SQL)..
 
 In this srpint i learn structured databases and the process of retrieving data using SQL.
 
